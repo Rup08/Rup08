@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rup08&label=Profile%20views&color=0e75b6&style=flat" alt="rup08" /> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Ethical hacking & web developing**
 
 - 📫 How to reach me **rupankar220@gmail.com**
 
