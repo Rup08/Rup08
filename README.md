@@ -1,4 +1,3 @@
-<img src="https://wallpapers.com/wallpapers/digital-rain-matrix-background-kq6zbz6vwnr5hg1m.html" width="100%"/>
 # 💫 About Me:
 Motivated and detail-oriented MCA graduate with a strong<br>foundation of Machine Learning , Data Science and Analyst. Proficient in<br>Python & ML frameworks, SQL and C++.
 
