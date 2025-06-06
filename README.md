@@ -1,3 +1,4 @@
+<img src="https://images.app.goo.gl/zLkcf2MvhmVcfkLW9" alt="banner" width="100%"/>
 # 💫 About Me:
 Motivated and detail-oriented MCA graduate with a strong<br>foundation of Machine Learning , Data Science and Analyst. Proficient in<br>Python & ML frameworks, SQL and C++.
 
