@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rupankar Halder</h1>
-<h3 align="center">A passionate programmer, ethical hacker & web developer</h3>
+<h3 align="center">A passionate programmer, Data Science and Data Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rup08&label=Profile%20views&color=0e75b6&style=flat" alt="rup08" /> </p>
 
-- 🌱 I’m currently learning **Ethical hacking & web developing**
 
-- 📫 How to reach me **rupankar220@gmail.com**
+
+- 📫 How to reach me **5gamer.der@gmail.com**
 
 - ⚡ Fun fact **I am funny😂😎**
 
